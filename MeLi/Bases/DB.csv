@@ -1,0 +1,7 @@
+,dn_name,classification_confidentiality,classification_integrity,classification_availability,owner_name,owner_email,user_manager
+0,users,low,high,medium,Enzo Trossero,enzo.trossero@mercadolibre.com,romina.marzovilla@mercadolibre.com
+1,items,medium,low,,Daniel Bertoni,,romina.marzovilla@mercadolibre.com
+2,locations,high,high,low,Ricardo Bochini,ricardo.bochini@mercadolibre.com,ernesto.vincelli@mercadolibre.com
+3,sellers,low,medium,medium,Daniel Garnero,dani.garnero@mercadolibre.com,romina.marzovilla@mercadolibre.com
+4,sellers,low,low,medium,JosÃ© Pastoriza,jose.omar.pastoriza@mercadolibre.com,ernesto.vincelli@mercadolibre.com
+5,orders,high,high,medium,Luis Alberto Islas,luis.islas@mercadolibre.com,ernesto.vincelli@mercadolibre.com

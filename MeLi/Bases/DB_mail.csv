@@ -1,0 +1,4 @@
+,dn_name,owner_name,owner_email,user_manager,classification_confidentiality,classification_integrity,classification_availability
+0,users,Enzo Trossero,enzo.trossero@mercadolibre.com,romina.marzovilla@mercadolibre.com,low,high,medium
+2,locations,Ricardo Bochini,ricardo.bochini@mercadolibre.com,ernesto.vincelli@mercadolibre.com,high,high,low
+5,orders,Luis Alberto Islas,luis.islas@mercadolibre.com,ernesto.vincelli@mercadolibre.com,high,high,medium
